@@ -5,5 +5,3 @@ El código genera dos archivos dentro de la misma carpeta que corresponden a los
 
 link del archivo:
 https://docs.google.com/spreadsheets/d/16DBK3xxRQ0V_DFVDZj9O3krQKPyaJi_EcDqCIMwJ1Vs/edit?usp=sharing
-
-*El programa en Python puede tardar algunos minutos en completarse dependiendo del procesamiento de la computadora.
